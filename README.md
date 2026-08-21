@@ -1,12 +1,12 @@
 # 🕵️ OSINT-Awesome-Modern
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/SEU-USUARIO/OSINT-Awesome-Modern?style=social)](https://github.com/SEU-USUARIO/OSINT-Awesome-Modern/stargazers)
-[![Forks](https://img.shields.io/github/forks/SEU-USUARIO/OSINT-Awesome-Modern?style=social)](https://github.com/SEU-USUARIO/OSINT-Awesome-Modern/network/members)
+[![Stars](https://img.shields.io/github/stars/FTRep01/OSINT-Awesome-Modern?style=social)](https://github.com/FTRep01/OSINT-Awesome-Modern/stargazers)
+[![Forks](https://img.shields.io/github/forks/FTRep01/OSINT-Awesome-Modern?style=social)](https://github.com/FTRep01/OSINT-Awesome-Modern/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-como-contribuir)
-[![Last Commit](https://img.shields.io/github/last-commit/SEU-USUARIO/OSINT-Awesome-Modern)](https://github.com/SEU-USUARIO/OSINT-Awesome-Modern/commits/main)
-[![Issues](https://img.shields.io/github/issues/SEU-USUARIO/OSINT-Awesome-Modern)](https://github.com/SEU-USUARIO/OSINT-Awesome-Modern/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/FTRep01/OSINT-Awesome-Modern)](https://github.com/FTRep01/OSINT-Awesome-Modern/commits/main)
+[![Issues](https://img.shields.io/github/issues/FTRep01/OSINT-Awesome-Modern)](https://github.com/FTRep01/OSINT-Awesome-Modern/issues)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://daringfireball.net/projects/markdown/)
 
 Uma coleção curada e moderna de ferramentas de **OSINT (Open Source Intelligence)** voltada para profissionais de **Cibersegurança/Pentest**, **Investigações Privadas** e **Cyber Threat Intelligence (CTI)**.
